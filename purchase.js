@@ -16,4 +16,4 @@ if (purchaseAmount >= 100) {
     discount = 0;
 }
 
-console.log(fullName + " says for a purchase of $" + purchaseAmount + " the discount is $" + discount);
+console.log(fullName + " says for a purhase of $" + purchaseAmount + " the discounts is $" + discount);

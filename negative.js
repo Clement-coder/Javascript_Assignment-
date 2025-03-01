@@ -6,9 +6,9 @@ let lastName = "Raymond";
 let fullName = name + " " + lastName;
 
 if (num > 0) {
-    console.log(fullName + " is a positive number");
+    console.log(fullName + num + " is a positive number");
 } else if (num < 0) {
-    console.log(fullName + " is a negative number");
+    console.log(fullName + num +" is a negative number");
 } else {
-    console.log(fullName + " the number is zero");
+    console.log(fullName + num + " the number is zero");
 }
