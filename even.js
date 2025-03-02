@@ -9,5 +9,4 @@ if (number % 2 === 0) {
     console.log(fullName + " says the number is even.");
 } else {
     console.log(fullName + " says the number is odd.");
-}
-;
+};

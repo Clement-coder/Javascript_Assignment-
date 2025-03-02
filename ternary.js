@@ -1,4 +1,5 @@
-//4. Write a program to determine the greater of two numbers (between two numbers). Use both the if/else statement and tenary operator.
+//4. Write a program to determine the greater of two numbers (between two numbers).
+//  Use both the if/else statement and tenary operator.
 
 let num1 = 10;
 let num2 = 7;  
@@ -18,7 +19,8 @@ if (num1 > num2) {
 // Using Ternary Operator
 let result = (num1 > num2) ? 
     fullName + " says " + num1 + " is greater than " + num2 + "." :
-    (num2 > num1) ? fullName + " says " + num2 + " is greater than " + num1 + "." :
+    (num2 > num1) ? 
+    fullName + " says " + num2 + " is greater than " + num1 + "." :
     fullName + " says both numbers are equal.";
 
 console.log(result);
