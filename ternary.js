@@ -17,10 +17,12 @@ if (num1 > num2) {
 }
 
 // Using Ternary Operator
+// ternary operator (? :) to compare two numbers (num1 and num2) and
+//  print a message indicating which number is greater or if they are equal.
+
 let result = (num1 > num2) ? 
     fullName + " says " + num1 + " is greater than " + num2 + "." :
     (num2 > num1) ? 
     fullName + " says " + num2 + " is greater than " + num1 + "." :
     fullName + " says both numbers are equal.";
-
 console.log(result);
