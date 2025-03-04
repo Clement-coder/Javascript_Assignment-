@@ -18,7 +18,7 @@ if (num1 > num2) {
     console.log(fullName + " says both numbers are equal.");
 }
 
-// Using Ternary Operator
+
 // ternary operator (? :) to compare two numbers (num1 and num2) 
 
 // using ternary operator
