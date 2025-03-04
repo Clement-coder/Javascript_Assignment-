@@ -8,7 +8,7 @@ let fullName = name + " " + lastName;
 if (num > 0) {
     console.log(fullName+ " " + num + " is a positive number");
 } else if (num < 0) {
-    consol.log(fullName+ " " + num + " is a negative number");
+    console.log(fullName+ " " + num + " is a negative number");
 } else {
     console.log(fullName+ " " + num + " the number is zero");
 }

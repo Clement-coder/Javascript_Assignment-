@@ -19,8 +19,7 @@ if (num1 > num2) {
 }
 
 // Using Ternary Operator
-// ternary operator (? :) to compare two numbers (num1 and num2) and
-//  print a message indicating which number is greater or if they are equal.
+// ternary operator (? :) to compare two numbers (num1 and num2) 
 
 // using ternary operator
 

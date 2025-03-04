@@ -1,6 +1,6 @@
 // 2. Write a program that checks if a number is even or odd.
 
-let number = 2;
+let number = 20.3;
 let name = "Clement";
 let lastName = "Raymond";
 let fullName = name + " " + lastName;
